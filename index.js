@@ -20,7 +20,7 @@ app.get("/", (req, res) => {
 });
 
 const CONNECTION_URL =
-  "mongodb+srv://js_mastery:M6WfDnJEoj9HkV2d@practice.jto9p.mongodb.net/memories_app?retryWrites=true&w=majority";
+  "mongodb+srv://jayden38400:jayden38400@cluster0.vncwj.mongodb.net/";
 const PORT = process.env.PORT || 5000;
 
 mongoose
